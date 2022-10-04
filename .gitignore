@@ -5,4 +5,5 @@ npm-debug.log
 .DS_Soret
 .DS_Store
 src
+public/home/main.css
 .vscode

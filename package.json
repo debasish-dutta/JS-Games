@@ -1,10 +1,10 @@
 {
   "name": "js-games",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "A website containing JavaScript games",
   "main": "./src/index.js",
   "scripts": {
-    "build-css": npx tailwindcss -i ./src/main.css -o ./public/style.css
+    "build-css": "npx tailwindcss -i ./public/home/main.css -o ./public/home/style.css"
   },
   "author": "ddmasterdon",
   "license": "ISC",
